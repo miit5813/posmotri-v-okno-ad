@@ -73,7 +73,7 @@ video {
   object-position: center;
 }
 
-/* === Form === */
+
 .search-form {
   display: flex;
   align-items: flex-end;
@@ -149,7 +149,7 @@ video {
   background-color: #ffffff;
 }
 
-/* === Buttons === */
+
 .button {
   border: 1px solid #ffffff;
   background: transparent;
@@ -176,7 +176,7 @@ video {
   outline-offset: 2px;
 }
 
-/* === Right panel === */
+
 .content__details {
   width: 100%;
 }
@@ -194,7 +194,7 @@ video {
   color: #545050;
 }
 
-/* === Scroll list === */
+
 .content__list {
   height: 298px;
   overflow-y: auto;
@@ -210,7 +210,7 @@ video {
   margin-bottom: 34px;
 }
 
-/* === Cards === */
+
 .content__card-link {
   display: block;
   padding: 2px;
